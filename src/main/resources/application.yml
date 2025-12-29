@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: GitHub
+  shell:
+    interactive:
+      enabled: true
